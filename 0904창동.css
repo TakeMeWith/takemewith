@@ -16,7 +16,7 @@
     width: 950px; height:450px;
     border:"1"
     border-top= 1px solid black;
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 
 td { width: 150px; border:1px solid black; border-radius: 5px;}
